@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="OrderCreationControllerTest" project="fxrate-exchange-plateform" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.fxrate.exchange.OrderCreationControllerTest" time="0.006" displayname="OrderCreationControllerTest" uniqueid="[engine:junit-jupiter]/[class:com.fxrate.exchange.OrderCreationControllerTest]">
+    <testcase name="testSave" classname="com.fxrate.exchange.OrderCreationControllerTest" time="0.006" displayname="testSave()" uniqueid="[engine:junit-jupiter]/[class:com.fxrate.exchange.OrderCreationControllerTest]/[method:testSave()]"/>
+  </testsuite>
+</testrun>

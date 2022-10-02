@@ -1,0 +1,5 @@
+package com.fxrate.exchange;
+
+public class OrderCreationControllerTest {
+
+}

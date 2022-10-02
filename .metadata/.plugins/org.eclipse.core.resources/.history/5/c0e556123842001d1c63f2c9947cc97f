@@ -1,0 +1,13 @@
+package com.fxrate.exchange;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class FxrateExchangePlateformApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(FxrateExchangePlateformApplication.class, args);
+	}
+
+}

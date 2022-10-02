@@ -1,0 +1,3 @@
+#server.contextPath=/fxrate
+server.servlet.context-path=/fxrate
+server.port = 8081

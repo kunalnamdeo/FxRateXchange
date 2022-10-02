@@ -1,0 +1,15 @@
+package com.fxrate.exchange.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.fxrate.exchange.dao.OrderDao;
+
+@RestController
+public class OrderStatusTrackingController {
+	
+	@Autowired
+	OrderDao orderDao;
+
+
+}

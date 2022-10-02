@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;OrderCreationControllerTest.java&apos; to &apos;fxrate-exchange-plateform/src/test/java/com.fxrate.exchange&apos;&#x0D;&#x0A;- Original project: &apos;fxrate-exchange-plateform&apos;&#x0D;&#x0A;- Destination element: &apos;fxrate-exchange-plateform/src/test/java/com.fxrate.exchange&apos;&#x0D;&#x0A;- Original element: &apos;com.fxrate.exchange.OrderCreationControllerTest.java&apos;" description="Copy compilation unit" destination="/src\/test\/java&lt;com.fxrate.exchange" element1="/src\/test\/java&lt;com.fxrate.exchange{OrderCreationControllerTest.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1664731031286" units="1" version="1.0"/>
+</session>

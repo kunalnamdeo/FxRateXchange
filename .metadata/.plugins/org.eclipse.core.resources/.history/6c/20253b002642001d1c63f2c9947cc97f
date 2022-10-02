@@ -1,0 +1,9 @@
+package com.fxrate.exchange.bean;
+
+public class Order {
+	
+	private Integer oderId;
+	
+	
+
+}

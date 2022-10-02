@@ -1,0 +1,16 @@
+package com.fxrate.exchange.dao;
+
+import com.fxrate.exchange.bean.Order;
+
+public class OrderDao {
+	
+	public Order save(Order order) {
+		
+		return order;
+	}
+	
+	public Order get(Integer id) {
+		
+		return new Order();
+	}
+}
